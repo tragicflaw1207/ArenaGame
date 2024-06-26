@@ -1,0 +1,4 @@
+name: ArenaGame
+version: '${version}'
+main: me.ruende.arenagame.ArenaGame
+api-version: '1.20'
